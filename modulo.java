@@ -5,8 +5,7 @@ class modulo{
 		
 		int a = sc.nextInt();
 		int b = sc.nextInt();
-		char c = sc.next().charAt(0);
-		System.out.println("Perform modulo operation");
+		System.out.println("Performing modulo operation");
 		System.out.println(a%b);
 		
 					}
